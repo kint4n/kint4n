@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elkin Agilroy Kristan!</h1>
+<h1 align="center">Hi 👋, I'm Elkin!</h1>
 <h3 align="center">🎓 Computer Science with AI @University of Nottingham China Ningbo</h3>
 
 <h3 align="left">Connect with me:</h3>
